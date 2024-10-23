@@ -14,7 +14,6 @@ Whether you're looking to invest in food crops or high-value exports, the Agricu
 
 ![image](https://github.com/user-attachments/assets/8027c555-b282-4e78-9406-dded8f9a5bef)
 ![image](https://github.com/user-attachments/assets/ced8bc0f-3da9-4d95-83c1-5e042edba2bd)
-![image](https://github.com/user-attachments/assets/d5ca5c36-b1a1-410a-b268-da70bd255093)
 ![image](https://github.com/user-attachments/assets/186f1731-8ab8-4df1-8611-1105c16c8ef1)
 ![image](https://github.com/user-attachments/assets/c0ce89a6-138a-4db3-9dfe-db0eba9026dc)
 ![image](https://github.com/user-attachments/assets/0c83e86b-4e02-4af5-a253-adf7126146f0)
@@ -22,3 +21,4 @@ Whether you're looking to invest in food crops or high-value exports, the Agricu
 ![image](https://github.com/user-attachments/assets/44f1e95b-c191-45ec-8020-7520c0964b1a)
 ![image](https://github.com/user-attachments/assets/86fa22a8-96b7-4124-bf17-23e00200b4fc)
 ![image](https://github.com/user-attachments/assets/9fc7e9bf-5580-46a6-bc07-aec06f659496)
+![image](https://github.com/user-attachments/assets/d5ca5c36-b1a1-410a-b268-da70bd255093)
