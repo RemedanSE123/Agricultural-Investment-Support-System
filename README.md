@@ -10,7 +10,8 @@ Connect with local stakeholders, including farmers, cooperatives, and agricultur
 Additionally, the platform integrates up-to-date market information, government policies, and financial incentives to ensure that investments are sustainable and profitable. It supports resource optimization, guiding investors toward regions with the necessary inputs like water, labor, and logistics infrastructure to maximize agricultural productivity.
 <br>
 Whether you're looking to invest in food crops or high-value exports, the Agricultural Investment Support System provides the tools to make strategic, data-driven investments that contribute to Ethiopia's food security and economic growth.
-<br>
+<br><br><br>
+
 ![image](https://github.com/user-attachments/assets/8027c555-b282-4e78-9406-dded8f9a5bef)
 ![image](https://github.com/user-attachments/assets/ced8bc0f-3da9-4d95-83c1-5e042edba2bd)
 ![image](https://github.com/user-attachments/assets/d5ca5c36-b1a1-410a-b268-da70bd255093)
